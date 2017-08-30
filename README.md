@@ -1,4 +1,4 @@
-# Dependency-Injection-via-Storyboards
+# Dependency Injection via Storyboards
 A solution to inject dependencies into ViewControllers created from Storyboards
 
 Create a subclass of NSObject (I called it a Configurator) in the same storyboard Scene as your 
